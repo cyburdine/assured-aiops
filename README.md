@@ -38,7 +38,7 @@ You need all of these on the machine running Claude Code:
 
    Example issue body:
    ```
-   Install htop on cyb-proto1 so I can debug a process issue. Standard apt install.
+   Install htop on <my_hostname> so I can debug a process issue. Standard apt install.
    ```
 
 2. **Invoke the skill in Claude Code (Draft phase):**

@@ -1,0 +1,16 @@
+{
+  "name": "cyburdine-aiops",
+  "description": "Assured AIOps tools for Claude Code: GitHub-issue-driven Ansible automation with mandatory human-in-the-loop review",
+  "owner": {
+    "name": "Justin Burdine"
+  },
+  "plugins": [
+    {
+      "name": "aiops",
+      "source": "./plugins/aiops",
+      "description": "Assured AIOps: GitHub-issue-driven Ansible automation with mandatory human-in-the-loop review",
+      "category": "infrastructure",
+      "tags": ["ansible", "aiops", "infrastructure", "automation", "github"]
+    }
+  ]
+}

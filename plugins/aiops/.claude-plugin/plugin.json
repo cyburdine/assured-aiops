@@ -1,0 +1,11 @@
+{
+  "name": "aiops",
+  "description": "Assured AIOps: GitHub-issue-driven Ansible automation with mandatory human-in-the-loop review",
+  "version": "0.1.0",
+  "author": {
+    "name": "Justin Burdine"
+  },
+  "homepage": "https://cyburdine.substack.com/p/assured-ai-ops",
+  "license": "MIT",
+  "keywords": ["ansible", "aiops", "automation", "infrastructure", "github", "skills"]
+}
